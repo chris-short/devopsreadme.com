@@ -48,7 +48,7 @@ theme = "onedly"
 #
 [social]
     # Coding Communities
-    github           = "cdeck3r/OneDly-Theme"
+    github           = "chris-short"
     gitlab           = ""
     stackoverflow    = "" # User Number
     bitbucket        = ""
@@ -91,7 +91,7 @@ theme = "onedly"
     orcid            = ""
     researchgate     = ""
     # Email
-    email = "info@cdeck3r.com"
+    email = "chris@chrisshort.net"
 
 #
 # Adjust privacy settings
