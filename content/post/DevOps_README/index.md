@@ -4,10 +4,9 @@ date = 2020-08-09T00:00:00Z
 description = "What to Read to Learn More About DevOps"
 draft = false
 slug = "devops-readme"
-title = "DevOps README"
+title = "DevOps README.md"
 aliases = [
-    "devopsreadme",
-    "devops_readme.md"
+    "devopsreadme"
 ]
 
 +++
