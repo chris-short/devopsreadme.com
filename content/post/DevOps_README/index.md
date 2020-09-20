@@ -203,4 +203,4 @@ aliases = [
 * Cons: Not an easy read; multiple differing translations
 * URL: [The Art of War](http://classics.mit.edu/Tzu/artwar.html?utm_source=devopsreadme.xyz&utm_medium=web)
 
-"You are either building a learning organization or you will be losing to someone who is." --Andrew Clay Shafer
+"**You are either building a learning organization or you will be losing to someone who is.**" --Andrew Clay Shafer

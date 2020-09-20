@@ -9,7 +9,7 @@ theme = "onedly"
 [params]
     # project specific params
     description = "DevOps README"
-    author_url = "https://chrisshort.net/"
+    author_url = "https://advisedbyshort.com/"
     author_name = "Chris Short"
     project_url = "https://github.com/chris-short/DevOps-README.md"
 
