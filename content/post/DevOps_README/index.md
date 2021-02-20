@@ -11,6 +11,8 @@ aliases = [
 
 +++
 
+"**You are either building a learning organization or you will be losing to someone who is.**" --Andrew Clay Shafer
+
 ## What is DevOps
 
 * Provides a high-level defintion of DevOps
@@ -214,5 +216,3 @@ Continuous learning is a critical part of DevOps. Staying current is imperative.
 As Kubernetes starts to democratize compute in ways we all didn't think possible, it's worthwhile to familiarize yourself with Kubernetes.
 
 [Kubernetes README](https://kubernetesreadme.com/): Books, tutorials, or other assets that would be useful to folks using Kubernetes.
-
-"**You are either building a learning organization or you will be losing to someone who is.**" --Andrew Clay Shafer
