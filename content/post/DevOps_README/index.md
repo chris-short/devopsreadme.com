@@ -23,6 +23,15 @@ aliases = [
 * Quip: It's better than nothing
 * URL: [What is DevOps](https://devopsish.com/what-is-devops/?utm_source=devopsreadme.xyz&utm_medium=web)
 
+## DevOps For Dummies
+
+* Foundational knowledge you will need for every DevOps journey
+* "DevOps For Dummies provides a guidebook for those on the development or operations side in need of a primer on this way of working."
+* Pros: This is a must read
+* Cons: None
+* Quip: When I heard Emily was writing a "for Dummies" book I was perplexed as she's one of the smartest people I know.
+* URL: [DevOps For Dummies](https://amzn.to/3rtgfJW)
+
 ## The Phoenix Project
 
 * Novel; Not your typical technical book
