@@ -30,7 +30,7 @@ aliases = [
 * Pros: This is a must read
 * Cons: None
 * Quip: When I heard Emily was writing a "for Dummies" book I was perplexed as she's one of the smartest people I know.
-* URL [DevOps For Dummies](https://amzn.to/3rtgfJW)
+* URL: [DevOps For Dummies](https://amzn.to/3rtgfJW)
 
 ## The Phoenix Project
 
