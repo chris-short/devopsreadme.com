@@ -52,6 +52,12 @@ HUGO_ENABLEGITINFO = "true"
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://devopsreadme.xyz/*"
+  to = "https://devopsreadme.com/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
