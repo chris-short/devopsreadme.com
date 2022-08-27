@@ -21,7 +21,7 @@ aliases = [
 * Pros: Valiant effort with feedback from a few well know DevOps professionals
 * Cons: It only defines the principle of DevOps, it does not show how it is done
 * Quip: It's better than nothing
-* URL: [What is DevOps](https://devopsish.com/what-is-devops/?utm_source=devopsreadme.xyz&utm_medium=web)
+* URL: [What is DevOps](https://devopsish.com/what-is-devops/?utm_source=devopsreadme.com&utm_medium=web)
 
 ## DevOps For Dummies
 
@@ -73,7 +73,7 @@ aliases = [
 
 ## The Twelve-Factor App
 
-* [https://12factor.net/](https://12factor.net/?utm_source=devopsreadme.xyz&utm_medium=web)
+* [https://12factor.net/](https://12factor.net/?utm_source=devopsreadme.com&utm_medium=web)
 * De facto standard for implementing software
 * Good design principles for refactors and green field
 * Pros: Free; Up-to-date; Roadmap
@@ -108,7 +108,7 @@ aliases = [
 * Pros: Free; solid examples of how to do things
 * Cons: You are not Google; embrace with caution
 * Quip: Google SRE is proof setting a pile of money on fire is a viable solution to engineering problems.
-* URL: [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/books/?utm_source=devopsreadme.xyz&utm_medium=web)
+* URL: [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/books/?utm_source=devopsreadme.com&utm_medium=web)
 
 ## The Art of Monitoring
 
@@ -137,7 +137,7 @@ aliases = [
 * Pros: Suggests tuning in your current organization
 * Cons: Missing some pieces to the puzzle
 * Quip: Yes! Enterprise and DevOps can work together... Somehow.
-* URL: [Enterprise DevOps Playbook](https://www.oreilly.com/library/view/enterprise-devops-playbook/9781492030065/?utm_source=devopsreadme.xyz&utm_medium=web)
+* URL: [Enterprise DevOps Playbook](https://www.oreilly.com/library/view/enterprise-devops-playbook/9781492030065/?utm_source=devopsreadme.com&utm_medium=web)
 
 ## The Open Organization Guide to IT Culture Change
 
@@ -147,7 +147,7 @@ aliases = [
 * Pros: Easy to read; diverse authors; inspirational
 * Cons: Not all pieces apply to everyone
 * Quip: "Being positive is sometimes difficult to do." I wrote that? Wow. I had no idea.
-* URL: [The Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/17/6/open-org-it-culture-now-available?utm_source=devopsreadme.xyz&utm_medium=web)
+* URL: [The Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/17/6/open-org-it-culture-now-available?utm_source=devopsreadme.com&utm_medium=web)
 
 ## Lean Enterprise
 
@@ -175,7 +175,7 @@ aliases = [
 * Pros: Makes case that RCA isn't a solid process
 * Cons: None given the scope
 * Quip: You're human so you're the problem.
-* URL: [How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)](https://chrisshort.net/devops-readme.md/How-Complex-Systems-Fail.pdf?utm_source=devopsreadme.xyz&utm_medium=web)
+* URL: [How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)](https://chrisshort.net/devops-readme.md/How-Complex-Systems-Fail.pdf?utm_source=devopsreadme.com&utm_medium=web)
 
 ## In Search of Certainty
 
@@ -212,7 +212,7 @@ aliases = [
 * "Know thy enemy"
 * Pros: Well known work studied in business, military
 * Cons: Not an easy read; multiple differing translations
-* URL: [The Art of War](http://classics.mit.edu/Tzu/artwar.html?utm_source=devopsreadme.xyz&utm_medium=web)
+* URL: [The Art of War](http://classics.mit.edu/Tzu/artwar.html?utm_source=devopsreadme.com&utm_medium=web)
 
 ## DevOps Newsletters
 

@@ -1,4 +1,4 @@
-baseurl = "https://devopsreadme.xyz/"
+baseurl = "https://devopsreadme.com/"
 languageCode = "en-us"
 title = "DevOps README"
 theme = "onedly"
@@ -73,7 +73,7 @@ theme = "onedly"
     googleplus       = ""
     reddit           = "oaf357"
     quora            = ""
-    youtube          = ""
+    youtube          = "ChrisShort"
     vimeo            = ""
     whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
@@ -99,10 +99,10 @@ theme = "onedly"
 #
 [privacy]
     [privacy.disqus]
-      disable = true
+      disable = false
 
     [privacy.googleAnalytics]
-      disable = true
+      disable = false
       anonymizeIP = true
       respectDoNotTrack = true
       useSessionStorage = true
@@ -117,7 +117,7 @@ theme = "onedly"
       simple = true
 
     [privacy.vimeo]
-      disable = true
+      disable = false
       simple = true
 
     [privacy.youtube]
